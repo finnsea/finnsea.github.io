@@ -1,165 +1,200 @@
-    {
-        "Set": "Dark City ",
-        "Keyword": "Teleport",
-        "Text": "Instead of playing it, you may set aside a card with the keyword "
-    },
-    {
-        "Set": "Dark City ",
-        "Keyword": "Bribe",
-        "Text": "You can fight villains with the keyword "
-    },
-    {
-        "Set": "Dark City ",
-        "Keyword": "Versatile",
-        "Text": "When you play a card with the keyword "
-    },
-    {
-        "Set": "Fantastic Four",
-        "Keyword": "Focus",
-        "Text": "When you play a card with a Focus ability, you can pay the cost on the left side of the arrow to get the effect on right side of the arrow. You can use that Focus ability as many times as you want for the rest of the turn. You can even play more Heroes, recruit, fight, then use the Focus ability more.|Note: You can use Focus abilities and still use the "
-    },
-    {
-        "Set": "Fantastic Four",
-        "Keyword": "Burrow",
-        "Text": "This means "
-    },
-    {
-        "Set": "Fantastic Four",
-        "Keyword": "Cosmic Threat",
-        "Text": "For each card of the given type you reveal, this Enemy gets -3 Attack this turn."
-    },
-    {
-        "Set": "Fantastic Four",
-        "Keyword": "Galactus' Cosmic Threat",
-        "Text": "Once per turn, choose Strength, Instinct, Covert, Tech or Ranged. For each card of that color you reveal, this Enemy gets -3 Attack for one fight this turn. If you try to fight Galactus a second time in the same turn, he will return to his full attack and you cannot use his Cosmic Threat ability a second time that turn."
-    },
-    {
-        "Set": "Paint the Town Red",
-        "Keyword": "Wall-Crawl",
-        "Text": "When you recruit this Hero, you may put it on top of your deck."
-    },
-    {
-        "Set": "Paint the Town Red",
-        "Keyword": "Feast",
-        "Text": "Fight: KO the top card of your deck."
-    },
-    {
-        "Set": "Villains",
-        "Keyword": "Demolish",
-        "Text": "Reveal the top card of the Ally (Hero) Deck, note its cost, and put it on the bottom of the Ally Deck. Each player reveals their hand and discards a card with that cost."
-    },
-    {
-        "Set": "Villains",
-        "Keyword": "Dodge",
-        "Text": "During your turn, you may discard this card from your hand to draw another card."
-    },
-    {
-        "Set": "Villains",
-        "Keyword": "Elusive",
-        "Text": "Elusive X"
-    },
-    {
-        "Set": "Villains",
-        "Keyword": "X-Treme Attack",
-        "Text": "This Adversary gets +1 Attack for each other Adversary in the city with X-Treme Attack."
-    },
-    {
-        "Set": "Guardians of the Galaxy",
-        "Keyword": "Artifact",
-        "Text": "When you gain a Hero Artifact, put it in your discard pile like any other Hero card. When you draw that Artifact later in the game, you may play it in front of you and use its effects, usually once one each of your turns. This means you "
-    },
-    {
-        "Set": "Fear Itself",
-        "Keyword": "Thrown Artifact",
-        "Text": "These are Artifact cards that the player can "
-    },
-    {
-        "Set": "Fear Itself",
-        "Keyword": "Uru-Enchanted Weapons",
-        "Text": "When you try to fight an enemy that has some number of Uru-Enchanted Weapons, reveal that many cards from the top of the Adversary Deck. That enemy immediately gains +Attack equal to the total Victory Points of all the cards you revealed. If you have enough Attack points to match the enemy's improved Attack, use them and defeat the enemy as normal. If you don't have enough Attack points, you don't defeat this enemy, you lose all your Attack points, and you can't fight anymore this turn.|Whether you defeat that enemy or not, put all the cards you revealed from the Adversary Deck on the bottom of that deck in random order.|Many of these enemies have a "
-    },
-    {
-        "Set": "Secret Wars Volume 1",
-        "Keyword": "Rise of the Living Dead",
-        "Text": "Each player checks the top card of their Victory Pile. If that card is a Villain with a 'Rise of the Living Dead' ability, that Villain reenters the city."
-    },
-    {
-        "Set": "Secret Wars Volume 1",
-        "Keyword": "Cross-Dimensional Rampage",
-        "Text": "Cross-Dimensional (Character) Rampage"
-    },
-    {
-        "Set": "Secret Wars Volume 2",
-        "Keyword": "Spectrum",
-        "Text": "Some cards have abilities like "
-    },
-    {
-        "Set": "Secret Wars Volume 2",
-        "Keyword": "Patrol",
-        "Text": "Some cards have abilities like "
-    },
-    {
-        "Set": "Secret Wars Volume 2",
-        "Keyword": "Circle of Kung-Fu (and Quack-Fu)",
-        "Text": "5th Circle of Kung-Fu"
-    },
-    {
-        "Set": "Secret Wars Volume 2",
-        "Keyword": "Fateful Resurrection",
-        "Text": "On a Villain card, "
-    },
-    {
-        "Set": "Secret Wars Volume 2",
-        "Keyword": "Charge",
-        "Text": "Ambush: Charge one space"
-    },
-    {
-        "Set": "Captain America 75th Anniversary",
-        "Keyword": "Man/Woman Out of Time",
-        "Text": "After you use this card's abilities, set it aside. At the beginning of your next turn, play this card a second time then discard it."
-    },
-    {
-        "Set": "Captain America 75th Anniversary",
-        "Keyword": "Savior",
-        "Text": "Use this ability if you have at least 3 Bystanders in your Victory Pile."
-    },
-    {
-        "Set": "Captain America 75th Anniversary",
-        "Keyword": "Abomination",
-        "Text": "This Villain gets +Attack equal to the printed Attack of the Hero in the HQ space under this Villain's city space."
-    },
-    {
-        "Set": "Civil War",
-        "Keyword": "Divided",
-        "Text": "Matching the theme of division and duality, Civil War introduces "
-    },
-    {
-        "Set": "Civil War",
-        "Keyword": "Size-Changing",
-        "Text": "This keyword represents Heroes and Villains using superpowers to massively change their size.|* Some Hero cards say, "
-    },
-    {
-        "Set": "Civil War",
-        "Keyword": "Phasing",
-        "Text": "This keyword represents Heroes becoming insubstantial and moving through solid objects.|* During your turn, if a card with Phasing is in your hand, you may swap it with the top card of your deck.|* This lets you get a different card instead, save a crucial Phasing card for the next turn, or set up a combo that cares about the top card of your deck.|* Swapping cards this way isn't "
-    },
-    {
-        "Set": "Civil War",
-        "Keyword": "Fortify",
-        "Text": "This keyword represents Villains setting up nasty traps for the players.|* Some Villains say things like "
-    },
-    {
-        "Set": "Civil War",
-        "Keyword": "S.H.I.E.L.D. Clearance",
-        "Text": "This keyword represents pro-registration S.H.I.E.L.D. forces that can be only defeated with the help of S.H.I.E.L.D. information.|* If a Villain says "
-    },
-    {
-        "Set": "Deadpool",
-        "Keyword": "Excessive Violence",
-        "Text": "* Once per turn, you can spend one Attack point more than you need to fight a bad guy "
-    },
-    {
-        "Set": "Deadpool",
-        "Keyword": "Revenge",
-        "Text": "* For Villain groups that have the Revenge ability, each Villain gets +1 Attack for every Villain of that group in your Victory Pile.|* Revenge is player specific. It will change based on the damage each player has caused to a Villain group. If you've KO'd 2 members of the Deadpool's 'Friends' Villain group then every other member of that group, that enters or is already in the city, will get +2 Attack during your turns. If another player has yet to KO'd a member of that group then the group doesn't gain any Attack. The more damage YOU do, the more that group hates YOU.|* Revenge is not limited to just Villains either. Masterminds can also hold a grudge. Big surprise there."
-    }
+[
+  {
+    "Id": 1,
+    "Set": "Dark City ",
+    "Keyword": "Teleport",
+    "Text": "Instead of playing it, you may set aside a card with the keyword "
+  },
+  {
+    "Id": 2,
+    "Set": "Dark City ",
+    "Keyword": "Bribe",
+    "Text": "You can fight villains with the keyword "
+  },
+  {
+    "Id": 3,
+    "Set": "Dark City ",
+    "Keyword": "Versatile",
+    "Text": "When you play a card with the keyword "
+  },
+  {
+    "Id": 4,
+    "Set": "Fantastic Four",
+    "Keyword": "Focus",
+    "Text": "When you play a card with a Focus ability, you can pay the cost on the left side of the arrow to get the effect on right side of the arrow. You can use that Focus ability as many times as you want for the rest of the turn. You can even play more Heroes, recruit, fight, then use the Focus ability more.|Note: You can use Focus abilities and still use the "
+  },
+  {
+    "Id": 5,
+    "Set": "Fantastic Four",
+    "Keyword": "Burrow",
+    "Text": "This means "
+  },
+  {
+    "Id": 6,
+    "Set": "Fantastic Four",
+    "Keyword": "Cosmic Threat",
+    "Text": "For each card of the given type you reveal, this Enemy gets -3 Attack this turn."
+  },
+  {
+    "Id": 7,
+    "Set": "Fantastic Four",
+    "Keyword": "Galactus' Cosmic Threat",
+    "Text": "Once per turn, choose Strength, Instinct, Covert, Tech or Ranged. For each card of that color you reveal, this Enemy gets -3 Attack for one fight this turn. If you try to fight Galactus a second time in the same turn, he will return to his full attack and you cannot use his Cosmic Threat ability a second time that turn."
+  },
+  {
+    "Id": 8,
+    "Set": "Paint the Town Red",
+    "Keyword": "Wall-Crawl",
+    "Text": "When you recruit this Hero, you may put it on top of your deck."
+  },
+  {
+    "Id": 9,
+    "Set": "Paint the Town Red",
+    "Keyword": "Feast",
+    "Text": "Fight: KO the top card of your deck."
+  },
+  {
+    "Id": 10,
+    "Set": "Villains",
+    "Keyword": "Demolish",
+    "Text": "Reveal the top card of the Ally (Hero) Deck, note its cost, and put it on the bottom of the Ally Deck. Each player reveals their hand and discards a card with that cost."
+  },
+  {
+    "Id": 11,
+    "Set": "Villains",
+    "Keyword": "Dodge",
+    "Text": "During your turn, you may discard this card from your hand to draw another card."
+  },
+  {
+    "Id": 12,
+    "Set": "Villains",
+    "Keyword": "Elusive",
+    "Text": "Elusive X"
+  },
+  {
+    "Id": 13,
+    "Set": "Villains",
+    "Keyword": "X-Treme Attack",
+    "Text": "This Adversary gets +1 Attack for each other Adversary in the city with X-Treme Attack."
+  },
+  {
+    "Id": 14,
+    "Set": "Guardians of the Galaxy",
+    "Keyword": "Artifact",
+    "Text": "When you gain a Hero Artifact, put it in your discard pile like any other Hero card. When you draw that Artifact later in the game, you may play it in front of you and use its effects, usually once one each of your turns. This means you "
+  },
+  {
+    "Id": 15,
+    "Set": "Fear Itself",
+    "Keyword": "Thrown Artifact",
+    "Text": "These are Artifact cards that the player can "
+  },
+  {
+    "Id": 16,
+    "Set": "Fear Itself",
+    "Keyword": "Uru-Enchanted Weapons",
+    "Text": "When you try to fight an enemy that has some number of Uru-Enchanted Weapons, reveal that many cards from the top of the Adversary Deck. That enemy immediately gains +Attack equal to the total Victory Points of all the cards you revealed. If you have enough Attack points to match the enemy's improved Attack, use them and defeat the enemy as normal. If you don't have enough Attack points, you don't defeat this enemy, you lose all your Attack points, and you can't fight anymore this turn.|Whether you defeat that enemy or not, put all the cards you revealed from the Adversary Deck on the bottom of that deck in random order.|Many of these enemies have a "
+  },
+  {
+    "Id": 17,
+    "Set": "Secret Wars Volume 1",
+    "Keyword": "Rise of the Living Dead",
+    "Text": "Each player checks the top card of their Victory Pile. If that card is a Villain with a 'Rise of the Living Dead' ability, that Villain reenters the city."
+  },
+  {
+    "Id": 18,
+    "Set": "Secret Wars Volume 1",
+    "Keyword": "Cross-Dimensional Rampage",
+    "Text": "Cross-Dimensional (Character) Rampage"
+  },
+  {
+    "Id": 19,
+    "Set": "Secret Wars Volume 2",
+    "Keyword": "Spectrum",
+    "Text": "Some cards have abilities like "
+  },
+  {
+    "Id": 20,
+    "Set": "Secret Wars Volume 2",
+    "Keyword": "Patrol",
+    "Text": "Some cards have abilities like "
+  },
+  {
+    "Id": 21,
+    "Set": "Secret Wars Volume 2",
+    "Keyword": "Circle of Kung-Fu (and Quack-Fu)",
+    "Text": "5th Circle of Kung-Fu"
+  },
+  {
+    "Id": 22,
+    "Set": "Secret Wars Volume 2",
+    "Keyword": "Fateful Resurrection",
+    "Text": "On a Villain card, "
+  },
+  {
+    "Id": 23,
+    "Set": "Secret Wars Volume 2",
+    "Keyword": "Charge",
+    "Text": "Ambush: Charge one space"
+  },
+  {
+    "Id": 24,
+    "Set": "Captain America 75th Anniversary",
+    "Keyword": "Man/Woman Out of Time",
+    "Text": "After you use this card's abilities, set it aside. At the beginning of your next turn, play this card a second time then discard it."
+  },
+  {
+    "Id": 25,
+    "Set": "Captain America 75th Anniversary",
+    "Keyword": "Savior",
+    "Text": "Use this ability if you have at least 3 Bystanders in your Victory Pile."
+  },
+  {
+    "Id": 26,
+    "Set": "Captain America 75th Anniversary",
+    "Keyword": "Abomination",
+    "Text": "This Villain gets +Attack equal to the printed Attack of the Hero in the HQ space under this Villain's city space."
+  },
+  {
+    "Id": 27,
+    "Set": "Civil War",
+    "Keyword": "Divided",
+    "Text": "Matching the theme of division and duality, Civil War introduces "
+  },
+  {
+    "Id": 28,
+    "Set": "Civil War",
+    "Keyword": "Size-Changing",
+    "Text": "This keyword represents Heroes and Villains using superpowers to massively change their size.|* Some Hero cards say, "
+  },
+  {
+    "Id": 29,
+    "Set": "Civil War",
+    "Keyword": "Phasing",
+    "Text": "This keyword represents Heroes becoming insubstantial and moving through solid objects.|* During your turn, if a card with Phasing is in your hand, you may swap it with the top card of your deck.|* This lets you get a different card instead, save a crucial Phasing card for the next turn, or set up a combo that cares about the top card of your deck.|* Swapping cards this way isn't "
+  },
+  {
+    "Id": 30,
+    "Set": "Civil War",
+    "Keyword": "Fortify",
+    "Text": "This keyword represents Villains setting up nasty traps for the players.|* Some Villains say things like "
+  },
+  {
+    "Id": 31,
+    "Set": "Civil War",
+    "Keyword": "S.H.I.E.L.D. Clearance",
+    "Text": "This keyword represents pro-registration S.H.I.E.L.D. forces that can be only defeated with the help of S.H.I.E.L.D. information.|* If a Villain says "
+  },
+  {
+    "Id": 32,
+    "Set": "Deadpool",
+    "Keyword": "Excessive Violence",
+    "Text": "* Once per turn, you can spend one Attack point more than you need to fight a bad guy "
+  },
+  {
+    "Id": 33,
+    "Set": "Deadpool",
+    "Keyword": "Revenge",
+    "Text": "* For Villain groups that have the Revenge ability, each Villain gets +1 Attack for every Villain of that group in your Victory Pile.|* Revenge is player specific. It will change based on the damage each player has caused to a Villain group. If you've KO'd 2 members of the Deadpool's 'Friends' Villain group then every other member of that group, that enters or is already in the city, will get +2 Attack during your turns. If another player has yet to KO'd a member of that group then the group doesn't gain any Attack. The more damage YOU do, the more that group hates YOU.|* Revenge is not limited to just Villains either. Masterminds can also hold a grudge. Big surprise there."
+  }
+]
