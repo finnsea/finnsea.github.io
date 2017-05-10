@@ -12,8 +12,7 @@
     "Recruit": 0,
     "Cost": 3,
     "Text": "Covert: You may KO a card from your hand or discard pile. If you do, rescue a Bystander.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 2,
@@ -28,8 +27,7 @@
     "Recruit": "",
     "Cost": 2,
     "Text": "Draw a card.|Tech: Rescue a Bystander.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 3,
@@ -44,8 +42,7 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "You get +1 Attack for each Bystander in your Victory pile.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 4,
@@ -60,8 +57,7 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Defeat a Villain or Mastermind that has a Bystander.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 5,
@@ -76,8 +72,7 @@
     "Recruit": "0+",
     "Cost": 3,
     "Text": "You get +1 Recruit for each color of Hero you have.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 6,
@@ -92,8 +87,7 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "You get +1 Attack for each color of Hero you have.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 7,
@@ -108,8 +102,7 @@
     "Recruit": "",
     "Cost": 6,
     "Text": "If you would gain a Wound, you may reveal this card and draw a card instead.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 8,
@@ -124,8 +117,7 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Avengers: You get +3 Attack for each other Avengers Hero you played this turn.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 9,
@@ -140,8 +132,7 @@
     "Recruit": 3,
     "Cost": 2,
     "Text": "To play this card, you must discard a card from your hand.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 10,
@@ -156,8 +147,7 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "To play this card, you must discard a card from your hand.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 11,
@@ -172,8 +162,7 @@
     "Recruit": "",
     "Cost": 6,
     "Text": "If a card effect makes you discard this card, you may return this card to your hand.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 12,
@@ -188,8 +177,7 @@
     "Recruit": "",
     "Cost": 8,
     "Text": "X-Men: You get +2 Attack for each other X-Men Hero you played this turn.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 13,
@@ -204,8 +192,7 @@
     "Recruit": 2,
     "Cost": 3,
     "Text": "A Villain of your choice captures a Bystander.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 14,
@@ -220,8 +207,7 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "You get +1 Attack for each other Hero with an odd-numbered Cost you played this turn.",
-    "FlavorText": "\\\"Hey, Abomination makes a pretty good babysitter.\\",
-    "": ""
+    "FlavorText": "\\\"Hey, Abomination makes a pretty good babysitter.\\"
   },
   {
     "Id": 15,
@@ -236,8 +222,7 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "If this is the first Hero you played this turn, you may discard the rest of your hand and draw four cards.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 16,
@@ -252,8 +237,7 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "You may gain a Wound to your hand. Then each player passes a card from their hand to the player on their left.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 17,
@@ -268,8 +252,7 @@
     "Recruit": 1,
     "Cost": 3,
     "Text": "Draw a card.",
-    "FlavorText": "A natural telepath, Emma knows what you're thinking before you do.",
-    "": ""
+    "FlavorText": "A natural telepath, Emma knows what you're thinking before you do."
   },
   {
     "Id": 18,
@@ -284,8 +267,7 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "Covert: You may play the top card of the Villain Deck. If you do, you get +2 Attack.",
-    "FlavorText": "Emma's days as a Villain are behind here...aren't they?",
-    "": ""
+    "FlavorText": "Emma's days as a Villain are behind here...aren't they?"
   },
   {
     "Id": 19,
@@ -300,8 +282,7 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "Each player may reveal an X-Men Hero. Each player who does draws a card.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 20,
@@ -316,8 +297,7 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Whenever you defeat a Villain or Mastermind this turn, you get +3 Recruit.",
-    "FlavorText": "A secondary mutation allows Emma Frost to transform into pure diamond.",
-    "": ""
+    "FlavorText": "A secondary mutation allows Emma Frost to transform into pure diamond."
   },
   {
     "Id": 21,
@@ -332,8 +312,7 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "Reveal the top card of your deck. If it's an X-Men Hero, draw it.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 22,
@@ -348,8 +327,7 @@
     "Recruit": "",
     "Cost": 2,
     "Text": "Draw two cards. Then put a card from your hand on top of your deck.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 23,
@@ -364,8 +342,7 @@
     "Recruit": 2,
     "Cost": 3,
     "Text": "Reveal the top card of your deck. Discard it or put it back.|Instinct: Do the same thing to each other player's deck.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 24,
@@ -380,8 +357,7 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Reveal the top card of your deck. You get + Attack equal to that card's cost.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 25,
@@ -396,8 +372,7 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "Draw a card.",
-    "FlavorText": "Against robots, Hawkeye's first shot is a warning shot. In the face.",
-    "": ""
+    "FlavorText": "Against robots, Hawkeye's first shot is a warning shot. In the face."
   },
   {
     "Id": 26,
@@ -412,8 +387,7 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "Avengers: You get +1 Attack.",
-    "FlavorText": "\\\"You line 'em up, and I'll knock 'em down...\\",
-    "": ""
+    "FlavorText": "\\\"You line 'em up, and I'll knock 'em down...\\"
   },
   {
     "Id": 27,
@@ -428,8 +402,7 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "Tech: Choose one: each other player draws a card or each other player discards a card.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 28,
@@ -444,8 +417,7 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Whenever you defeat a Villain or Mastermind this turn, rescue three Bystanders.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 29,
@@ -460,8 +432,7 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "Strength: You get +1 Attack.",
-    "FlavorText": "Don't make Hulk even mildly inconvenienced. You wouldn't like him when he's mildly inconvenienced...",
-    "": ""
+    "FlavorText": "Don't make Hulk even mildly inconvenienced. You wouldn't like him when he's mildly inconvenienced..."
   },
   {
     "Id": 30,
@@ -476,8 +447,7 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "You may KO a Wound from your hand or discard pile. If you do, you get +2 Attack.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 31,
@@ -492,8 +462,7 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "Each player gains a Wound.",
-    "FlavorText": "Hulk's rages tear everything apart: Enemies. Friends. Pants.",
-    "": ""
+    "FlavorText": "Hulk's rages tear everything apart: Enemies. Friends. Pants."
   },
   {
     "Id": 32,
@@ -508,8 +477,7 @@
     "Recruit": "",
     "Cost": 8,
     "Text": "Strength: You get +5 Attack.",
-    "FlavorText": "\\\"PUNY HUMANS! HULK IS THE STRONGEST ONE THERE IS!\\",
-    "": ""
+    "FlavorText": "\\\"PUNY HUMANS! HULK IS THE STRONGEST ONE THERE IS!\\"
   },
   {
     "Id": 33,
@@ -524,8 +492,7 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "Draw a card.|Tech: Draw another card.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 34,
@@ -540,8 +507,7 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "Ranged: You get +1 Attack.",
-    "FlavorText": "Repulsor ray technology has many peaceful applications. This is not one of them.",
-    "": ""
+    "FlavorText": "Repulsor ray technology has many peaceful applications. This is not one of them."
   },
   {
     "Id": 35,
@@ -556,8 +522,7 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "Tech: You get +1 Attack for each other Tech Hero you played this turn.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 36,
@@ -572,8 +537,7 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Draw two cards.|Tech: Draw two more cards.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 37,
@@ -588,8 +552,7 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "You may KO a S.H.I.E.L.D. Hero from your hand or discard pile. If you do, you may gain a S.H.I.E.L.D. Officer to your hand.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 38,
@@ -604,8 +567,7 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "Tech: You get +1 Attack.",
-    "FlavorText": "Fury always budgets one extra prototype for his personal collection.",
-    "": ""
+    "FlavorText": "Fury always budgets one extra prototype for his personal collection."
   },
   {
     "Id": 39,
@@ -620,8 +582,7 @@
     "Recruit": "",
     "Cost": 6,
     "Text": "You get +1 Attack for each other S.H.I.E.L.D. Hero you played this turn.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 40,
@@ -636,8 +597,7 @@
     "Recruit": "",
     "Cost": 8,
     "Text": "Defeat any Villain or Mastermind whose Attack is less than the number of S.H.I.E.L.D. Heroes in the KO pile.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 41,
@@ -652,8 +612,7 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "Strength: You get +3 Attack.",
-    "FlavorText": "When Rogue steals super strength, enemies get super scared.",
-    "": ""
+    "FlavorText": "When Rogue steals super strength, enemies get super scared."
   },
   {
     "Id": 42,
@@ -668,8 +627,7 @@
     "Recruit": "2+",
     "Cost": 3,
     "Text": "Covert: You may KO a card from your hand or discard pile. If you do, you get +1 Recruit.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 43,
@@ -684,8 +642,7 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "Play this card as a copy of another Hero you played this turn. This card is both Covert and the color you copy.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 44,
@@ -700,8 +657,7 @@
     "Recruit": "",
     "Cost": 8,
     "Text": "Each player discards the top card of their deck. Play a copy of each of those cards.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 45,
@@ -716,8 +672,7 @@
     "Recruit": 1,
     "Cost": 2,
     "Text": "Reveal the top card of your deck. If that card costs 2 or less, draw it.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 46,
@@ -732,8 +687,7 @@
     "Recruit": "",
     "Cost": 2,
     "Text": "Reveal the top card of your deck. If that card costs 2 or less, draw it.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 47,
@@ -748,8 +702,7 @@
     "Recruit": "",
     "Cost": 2,
     "Text": "Rescue a Bystander.|Reveal the top card of your deck. If that card costs 2 or less, draw it.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 48,
@@ -764,8 +717,7 @@
     "Recruit": "",
     "Cost": 2,
     "Text": "Reveal the top three cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 49,
@@ -780,8 +732,7 @@
     "Recruit": 2,
     "Cost": 3,
     "Text": "Ranged: Draw a card.",
-    "FlavorText": "Two little raindrops. Then two billion.",
-    "": ""
+    "FlavorText": "Two little raindrops. Then two billion."
   },
   {
     "Id": 50,
@@ -796,8 +747,7 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "Any Villain you fight on the Rooftops this turn gets -2 Attack.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 51,
@@ -812,8 +762,7 @@
     "Recruit": "",
     "Cost": 6,
     "Text": "You may move a Villain to a new city space. Rescue any Bystanders captured by that Villain. (If you move a Villain to a city space that already has Villain, swap them.)",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 52,
@@ -828,8 +777,7 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Any Villain you fight on the Bridge this turn gets -2 Attack.|Ranged: The Mastermind gets -2 Attack this turn.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 53,
@@ -844,8 +792,7 @@
     "Recruit": "2+",
     "Cost": 3,
     "Text": "Strength: You get +2 Recruit.",
-    "FlavorText": "\\\"Whosoever holds the hammer, if he be worthy, shall possess the power of Thor.\\",
-    "": ""
+    "FlavorText": "\\\"Whosoever holds the hammer, if he be worthy, shall possess the power of Thor.\\"
   },
   {
     "Id": 54,
@@ -860,8 +807,7 @@
     "Recruit": 2,
     "Cost": 4,
     "Text": "If you made 8 or more Recruit this turn, you get +3 Attack.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 55,
@@ -876,8 +822,7 @@
     "Recruit": "",
     "Cost": 6,
     "Text": "Ranged: You get +3 Attack.",
-    "FlavorText": "Lightning never strikes twice. Thor never needs to.",
-    "": ""
+    "FlavorText": "Lightning never strikes twice. Thor never needs to."
   },
   {
     "Id": 56,
@@ -892,8 +837,7 @@
     "Recruit": 5,
     "Cost": 8,
     "Text": "You can use Recruit as Attack this turn.",
-    "FlavorText": "They call him the God of Thunder. His enemies better start praying.",
-    "": ""
+    "FlavorText": "They call him the God of Thunder. His enemies better start praying."
   },
   {
     "Id": 57,
@@ -908,8 +852,7 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "You may KO a Wound from your hand or discard pile. If you do, draw a card.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   },
   {
     "Id": 58,
@@ -924,8 +867,7 @@
     "Recruit": "",
     "Cost": 2,
     "Text": "Instinct: Draw a card.",
-    "FlavorText": "The only thing scarier than Wolverine tracking you is Wolverine finding you.",
-    "": ""
+    "FlavorText": "The only thing scarier than Wolverine tracking you is Wolverine finding you."
   },
   {
     "Id": 59,
@@ -940,8 +882,7 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "Instinct: Draw two cards.",
-    "FlavorText": "Some villains get torn apart by guilt. Others get torn apart by Wolverine.",
-    "": ""
+    "FlavorText": "Some villains get torn apart by guilt. Others get torn apart by Wolverine."
   },
   {
     "Id": 60,
@@ -956,7 +897,6 @@
     "Recruit": "",
     "Cost": 8,
     "Text": "Draw three cards.|Instinct: You get +1 Attack for each extra card you've drawn this turn.",
-    "FlavorText": "",
-    "": ""
+    "FlavorText": ""
   }
 ]
