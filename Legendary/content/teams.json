@@ -1,0 +1,88 @@
+
+[
+  {
+    "Id": 1,
+    "Name": "Avengers",
+    "ImageFile": "avengers.png"
+  },
+  {
+    "Id": 2,
+    "Name": "Brotherhood",
+    "ImageFile": "brotherhood.png"
+  },
+  {
+    "Id": 3,
+    "Name": "Cabal",
+    "ImageFile": "cabal.PNG"
+  },
+  {
+    "Id": 4,
+    "Name": "Crime Syndicate",
+    "ImageFile": "crime_syndicate.png"
+  },
+  {
+    "Id": 5,
+    "Name": "Fantastic Four",
+    "ImageFile": "fantastic_four.png"
+  },
+  {
+    "Id": 6,
+    "Name": "Foes of Asgard",
+    "ImageFile": "foes_of_asgard.png"
+  },
+  {
+    "Id": 7,
+    "Name": "Guardians of the Galaxy",
+    "ImageFile": "guardians_of_the_galaxy.png"
+  },
+  {
+    "Id": 8,
+    "Name": "Hydra",
+    "ImageFile": "hydra.png"
+  },
+  {
+    "Id": 9,
+    "Name": "Illuminati",
+    "ImageFile": "liluminati.png"
+  },
+  {
+    "Id": 10,
+    "Name": "Marvel Knights",
+    "ImageFile": "marvel_knights.png"
+  },
+  {
+    "Id": 11,
+    "Name": "Mercs For Money",
+    "ImageFile": "mercs_for_money.png"
+  },
+  {
+    "Id": 12,
+    "Name": "New Warriors",
+    "ImageFile": "new_warriors.png"
+  },
+  {
+    "Id": 13,
+    "Name": "S.H.I.E.L.D.",
+    "ImageFile": "shield.png"
+  },
+  {
+    "Id": 14,
+    "Name": "Sinister Six",
+    "ImageFile": "sinister_six.png"
+  },
+  {
+    "Id": 15,
+    "Name": "Spider Friends",
+    "ImageFile": "spider_friends.png"
+  },
+  {
+    "Id": 16,
+    "Name": "X-Force",
+    "ImageFile": "x_force.png"
+  },
+  {
+    "Id": 17,
+    "Name": "X-Men",
+    "ImageFile": "x_men.png"
+  }
+]
