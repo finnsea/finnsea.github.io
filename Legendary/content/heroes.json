@@ -1,0 +1,107 @@
+[
+  {
+    "Id": 1,
+    "Name": "Black Widow",
+    "SetId": 1,
+    "TeamId": 1,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 2,
+    "Name": "Captain America",
+    "SetId": 1,
+    "TeamId": 1,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 3,
+    "Name": "Cyclops",
+    "SetId": 1,
+    "TeamId": 17,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 4,
+    "Name": "Deadpool",
+    "SetId": 1,
+    "TeamId": "",
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 5,
+    "Name": "Emma Frost",
+    "SetId": 1,
+    "TeamId": 17,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 6,
+    "Name": "Gambit",
+    "SetId": 1,
+    "TeamId": 17,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 7,
+    "Name": "Hawkeye",
+    "SetId": 1,
+    "TeamId": 1,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 8,
+    "Name": "Hulk",
+    "SetId": 1,
+    "TeamId": 1,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 9,
+    "Name": "Iron Man",
+    "SetId": 1,
+    "TeamId": 1,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 10,
+    "Name": "Nick Fury",
+    "SetId": 1,
+    "TeamId": 13,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 11,
+    "Name": "Rogue",
+    "SetId": 1,
+    "TeamId": 17,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 12,
+    "Name": "Spider-Man",
+    "SetId": 1,
+    "TeamId": 15,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 13,
+    "Name": "Storm",
+    "SetId": 1,
+    "TeamId": 17,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 14,
+    "Name": "Thor",
+    "SetId": 1,
+    "TeamId": 1,
+    "TeamTwoId": ""
+  },
+  {
+    "Id": 15,
+    "Name": "Wolverine",
+    "SetId": 1,
+    "TeamId": 17,
+    "TeamTwoId": ""
+  }
+]
