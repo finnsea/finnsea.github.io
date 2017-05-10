@@ -1,8 +1,9 @@
 [
   {
-    "Set": "Legendary",
-    "Name": "Black Widow",
-    "Team": "Avengers",
+    "Id": 1,
+    "SetId": 1,
+    "HeroId": 1,
+    "TeamId": 1,
     "Title": "Dangerous Rescue",
     "Count": 5,
     "Type": "Covert",
@@ -10,12 +11,14 @@
     "Recruit": 0,
     "Cost": 3,
     "Text": "Covert: You may KO a card from your hand or discard pile. If you do, rescue a Bystander.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Black Widow",
-    "Team": "Avengers",
+    "Id": 2,
+    "SetId": 1,
+    "HeroId": 1,
+    "TeamId": 1,
     "Title": "Mission Accomplished",
     "Count": 5,
     "Type": "Tech",
@@ -23,12 +26,14 @@
     "Recruit": "",
     "Cost": 2,
     "Text": "Draw a card.|Tech: Rescue a Bystander.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Black Widow",
-    "Team": "Avengers",
+    "Id": 3,
+    "SetId": 1,
+    "HeroId": 1,
+    "TeamId": 1,
     "Title": "Covert Operation",
     "Count": 3,
     "Type": "Covert",
@@ -36,12 +41,14 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "You get +1 Attack for each Bystander in your Victory pile.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Black Widow",
-    "Team": "Avengers",
+    "Id": 4,
+    "SetId": 1,
+    "HeroId": 1,
+    "TeamId": 1,
     "Title": "Silent Sniper",
     "Count": 1,
     "Type": "Covert",
@@ -49,12 +56,14 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Defeat a Villain or Mastermind that has a Bystander.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Captain America",
-    "Team": "Avengers",
+    "Id": 5,
+    "SetId": 1,
+    "HeroId": 2,
+    "TeamId": 1,
     "Title": "Avengers Assemble!",
     "Count": 5,
     "Type": "Instinct",
@@ -62,12 +71,14 @@
     "Recruit": "0+",
     "Cost": 3,
     "Text": "You get +1 Recruit for each color of Hero you have.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Captain America",
-    "Team": "Avengers",
+    "Id": 6,
+    "SetId": 1,
+    "HeroId": 2,
+    "TeamId": 1,
     "Title": "Perfect Teamwork",
     "Count": 5,
     "Type": "Strength",
@@ -75,12 +86,14 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "You get +1 Attack for each color of Hero you have.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Captain America",
-    "Team": "Avengers",
+    "Id": 7,
+    "SetId": 1,
+    "HeroId": 2,
+    "TeamId": 1,
     "Title": "Diving Block",
     "Count": 3,
     "Type": "Tech",
@@ -88,12 +101,14 @@
     "Recruit": "",
     "Cost": 6,
     "Text": "If you would gain a Wound, you may reveal this card and draw a card instead.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Captain America",
-    "Team": "Avengers",
+    "Id": 8,
+    "SetId": 1,
+    "HeroId": 2,
+    "TeamId": 1,
     "Title": "A Day Unlike Any Other",
     "Count": 1,
     "Type": "Covert",
@@ -101,12 +116,14 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Avengers: You get +3 Attack for each other Avengers Hero you played this turn.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Cyclops",
-    "Team": "X-Men",
+    "Id": 9,
+    "SetId": 1,
+    "HeroId": 3,
+    "TeamId": 17,
     "Title": "Determination",
     "Count": 5,
     "Type": "Strength",
@@ -114,12 +131,14 @@
     "Recruit": 3,
     "Cost": 2,
     "Text": "To play this card, you must discard a card from your hand.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Cyclops",
-    "Team": "X-Men",
+    "Id": 10,
+    "SetId": 1,
+    "HeroId": 3,
+    "TeamId": 17,
     "Title": "Optic Blast",
     "Count": 5,
     "Type": "Ranged",
@@ -127,12 +146,14 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "To play this card, you must discard a card from your hand.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Cyclops",
-    "Team": "X-Men",
+    "Id": 11,
+    "SetId": 1,
+    "HeroId": 3,
+    "TeamId": 17,
     "Title": "Unending Energy",
     "Count": 3,
     "Type": "Ranged",
@@ -140,12 +161,14 @@
     "Recruit": "",
     "Cost": 6,
     "Text": "If a card effect makes you discard this card, you may return this card to your hand.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Cyclops",
-    "Team": "X-Men",
+    "Id": 12,
+    "SetId": 1,
+    "HeroId": 3,
+    "TeamId": 17,
     "Title": "X-Men United",
     "Count": 1,
     "Type": "Ranged",
@@ -153,12 +176,14 @@
     "Recruit": "",
     "Cost": 8,
     "Text": "X-Men: You get +2 Attack for each other X-Men Hero you played this turn.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Deadpool",
-    "Team": "",
+    "Id": 13,
+    "SetId": 1,
+    "HeroId": 4,
+    "TeamId": "",
     "Title": "Here, Hold This for a Second",
     "Count": 5,
     "Type": "Tech",
@@ -166,12 +191,14 @@
     "Recruit": 2,
     "Cost": 3,
     "Text": "A Villain of your choice captures a Bystander.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Deadpool",
-    "Team": "",
+    "Id": 14,
+    "SetId": 1,
+    "HeroId": 4,
+    "TeamId": "",
     "Title": "Oddball",
     "Count": 5,
     "Type": "Covert",
@@ -179,12 +206,14 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "You get +1 Attack for each other Hero with an odd-numbered Cost you played this turn.",
-    "FlavorText": "Hey, Abomination makes a pretty good babysitter."
+    "FlavorText": "\\\"Hey, Abomination makes a pretty good babysitter.\\",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Deadpool",
-    "Team": "",
+    "Id": 15,
+    "SetId": 1,
+    "HeroId": 4,
+    "TeamId": "",
     "Title": "Hey, Can I Get a Do-Over?",
     "Count": 3,
     "Type": "Instinct",
@@ -192,12 +221,14 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "If this is the first Hero you played this turn, you may discard the rest of your hand and draw four cards.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Deadpool",
-    "Team": "",
+    "Id": 16,
+    "SetId": 1,
+    "HeroId": 4,
+    "TeamId": "",
     "Title": "Random Acts of Unkindness",
     "Count": 1,
     "Type": "Instinct",
@@ -205,12 +236,14 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "You may gain a Wound to your hand. Then each player passes a card from their hand to the player on their left.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Emma Frost",
-    "Team": "X-Men",
+    "Id": 17,
+    "SetId": 1,
+    "HeroId": 5,
+    "TeamId": 17,
     "Title": "Mental Discipline",
     "Count": 5,
     "Type": "Ranged",
@@ -218,12 +251,14 @@
     "Recruit": 1,
     "Cost": 3,
     "Text": "Draw a card.",
-    "FlavorText": "A natural telepath, Emma knows what you're thinking before you do."
+    "FlavorText": "A natural telepath, Emma knows what you're thinking before you do.",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Emma Frost",
-    "Team": "X-Men",
+    "Id": 18,
+    "SetId": 1,
+    "HeroId": 5,
+    "TeamId": 17,
     "Title": "Shadowed Thoughts",
     "Count": 5,
     "Type": "Covert",
@@ -231,12 +266,14 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "Covert: You may play the top card of the Villain Deck. If you do, you get +2 Attack.",
-    "FlavorText": "Emma's days as a Villain are behind here...aren't they?"
+    "FlavorText": "Emma's days as a Villain are behind here...aren't they?",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Emma Frost",
-    "Team": "X-Men",
+    "Id": 19,
+    "SetId": 1,
+    "HeroId": 5,
+    "TeamId": 17,
     "Title": "Psychic Link",
     "Count": 3,
     "Type": "Instinct",
@@ -244,12 +281,14 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "Each player may reveal an X-Men Hero. Each player who does draws a card.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Emma Frost",
-    "Team": "X-Men",
+    "Id": 20,
+    "SetId": 1,
+    "HeroId": 5,
+    "TeamId": 17,
     "Title": "Diamond Form",
     "Count": 1,
     "Type": "Strength",
@@ -257,12 +296,14 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Whenever you defeat a Villain or Mastermind this turn, you get +3 Recruit.",
-    "FlavorText": "A secondary mutation allows Emma Frost to transform into pure diamond."
+    "FlavorText": "A secondary mutation allows Emma Frost to transform into pure diamond.",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Gambit",
-    "Team": "X-Men",
+    "Id": 21,
+    "SetId": 1,
+    "HeroId": 6,
+    "TeamId": 17,
     "Title": "Card Shark",
     "Count": 5,
     "Type": "Ranged",
@@ -270,12 +311,14 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "Reveal the top card of your deck. If it's an X-Men Hero, draw it.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Gambit",
-    "Team": "X-Men",
+    "Id": 22,
+    "SetId": 1,
+    "HeroId": 6,
+    "TeamId": 17,
     "Title": "Stack the Deck",
     "Count": 5,
     "Type": "Covert",
@@ -283,12 +326,14 @@
     "Recruit": "",
     "Cost": 2,
     "Text": "Draw two cards. Then put a card from your hand on top of your deck.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Gambit",
-    "Team": "X-Men",
+    "Id": 23,
+    "SetId": 1,
+    "HeroId": 6,
+    "TeamId": 17,
     "Title": "Hypnotic Charm",
     "Count": 3,
     "Type": "Instinct",
@@ -296,12 +341,14 @@
     "Recruit": 2,
     "Cost": 3,
     "Text": "Reveal the top card of your deck. Discard it or put it back.|Instinct: Do the same thing to each other player's deck.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Gambit",
-    "Team": "X-Men",
+    "Id": 24,
+    "SetId": 1,
+    "HeroId": 6,
+    "TeamId": 17,
     "Title": "High Stakes Jackpot",
     "Count": 1,
     "Type": "Instinct",
@@ -309,12 +356,14 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Reveal the top card of your deck. You get + Attack equal to that card's cost.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Hawkeye",
-    "Team": "Avengers",
+    "Id": 25,
+    "SetId": 1,
+    "HeroId": 7,
+    "TeamId": 1,
     "Title": "Quick Draw",
     "Count": 5,
     "Type": "Instinct",
@@ -322,12 +371,14 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "Draw a card.",
-    "FlavorText": "Against robots, Hawkeye's first shot is a warning shot. In the face."
+    "FlavorText": "Against robots, Hawkeye's first shot is a warning shot. In the face.",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Hawkeye",
-    "Team": "Avengers",
+    "Id": 26,
+    "SetId": 1,
+    "HeroId": 7,
+    "TeamId": 1,
     "Title": "Team Player",
     "Count": 5,
     "Type": "Tech",
@@ -335,12 +386,14 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "Avengers: You get +1 Attack.",
-    "FlavorText": "You line 'em up, and I'll knock 'em down..."
+    "FlavorText": "\\\"You line 'em up, and I'll knock 'em down...\\",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Hawkeye",
-    "Team": "Avengers",
+    "Id": 27,
+    "SetId": 1,
+    "HeroId": 7,
+    "TeamId": 1,
     "Title": "Covering Fire",
     "Count": 3,
     "Type": "Tech",
@@ -348,12 +401,14 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "Tech: Choose one: each other player draws a card or each other player discards a card.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Hawkeye",
-    "Team": "Avengers",
+    "Id": 28,
+    "SetId": 1,
+    "HeroId": 7,
+    "TeamId": 1,
     "Title": "Impossible Trick Shot",
     "Count": 1,
     "Type": "Tech",
@@ -361,12 +416,14 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Whenever you defeat a Villain or Mastermind this turn, rescue three Bystanders.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Hulk",
-    "Team": "Avengers",
+    "Id": 29,
+    "SetId": 1,
+    "HeroId": 8,
+    "TeamId": 1,
     "Title": "Growing Anger",
     "Count": 5,
     "Type": "Strength",
@@ -374,12 +431,14 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "Strength: You get +1 Attack.",
-    "FlavorText": "Don't make Hulk even mildly inconvenienced. You wouldn't like him when he's mildly inconvenienced..."
+    "FlavorText": "Don't make Hulk even mildly inconvenienced. You wouldn't like him when he's mildly inconvenienced...",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Hulk",
-    "Team": "Avengers",
+    "Id": 30,
+    "SetId": 1,
+    "HeroId": 8,
+    "TeamId": 1,
     "Title": "Unstoppable Hulk",
     "Count": 5,
     "Type": "Instinct",
@@ -387,12 +446,14 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "You may KO a Wound from your hand or discard pile. If you do, you get +2 Attack.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Hulk",
-    "Team": "Avengers",
+    "Id": 31,
+    "SetId": 1,
+    "HeroId": 8,
+    "TeamId": 1,
     "Title": "Crazed Rampage",
     "Count": 3,
     "Type": "Strength",
@@ -400,12 +461,14 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "Each player gains a Wound.",
-    "FlavorText": "Hulk's rages tear everything apart: Enemies. Friends. Pants."
+    "FlavorText": "Hulk's rages tear everything apart: Enemies. Friends. Pants.",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Hulk",
-    "Team": "Avengers",
+    "Id": 32,
+    "SetId": 1,
+    "HeroId": 8,
+    "TeamId": 1,
     "Title": "Hulk Smash!",
     "Count": 1,
     "Type": "Strength",
@@ -413,12 +476,14 @@
     "Recruit": "",
     "Cost": 8,
     "Text": "Strength: You get +5 Attack.",
-    "FlavorText": "PUNY HUMANS! HULK IS THE STRONGEST ONE THERE IS!"
+    "FlavorText": "\\\"PUNY HUMANS! HULK IS THE STRONGEST ONE THERE IS!\\",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Iron Man",
-    "Team": "Avengers",
+    "Id": 33,
+    "SetId": 1,
+    "HeroId": 9,
+    "TeamId": 1,
     "Title": "Endless Invention",
     "Count": 5,
     "Type": "Tech",
@@ -426,12 +491,14 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "Draw a card.|Tech: Draw another card.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Iron Man",
-    "Team": "Avengers",
+    "Id": 34,
+    "SetId": 1,
+    "HeroId": 9,
+    "TeamId": 1,
     "Title": "Repulsor Rays",
     "Count": 5,
     "Type": "Ranged",
@@ -439,12 +506,14 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "Ranged: You get +1 Attack.",
-    "FlavorText": "Repulsor ray technology has many peaceful applications. This is not one of them."
+    "FlavorText": "Repulsor ray technology has many peaceful applications. This is not one of them.",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Iron Man",
-    "Team": "Avengers",
+    "Id": 35,
+    "SetId": 1,
+    "HeroId": 9,
+    "TeamId": 1,
     "Title": "Arc Reactor",
     "Count": 3,
     "Type": "Tech",
@@ -452,12 +521,14 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "Tech: You get +1 Attack for each other Tech Hero you played this turn.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Iron Man",
-    "Team": "Avengers",
+    "Id": 36,
+    "SetId": 1,
+    "HeroId": 9,
+    "TeamId": 1,
     "Title": "Quantum Breakthrough",
     "Count": 1,
     "Type": "Tech",
@@ -465,12 +536,14 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Draw two cards.|Tech: Draw two more cards.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Nick Fury",
-    "Team": "S.H.I.E.L.D.",
+    "Id": 37,
+    "SetId": 1,
+    "HeroId": 10,
+    "TeamId": 13,
     "Title": "Battlefield Promotion",
     "Count": 5,
     "Type": "Covert",
@@ -478,12 +551,14 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "You may KO a S.H.I.E.L.D. Hero from your hand or discard pile. If you do, you may gain a S.H.I.E.L.D. Officer to your hand.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Nick Fury",
-    "Team": "S.H.I.E.L.D.",
+    "Id": 38,
+    "SetId": 1,
+    "HeroId": 10,
+    "TeamId": 13,
     "Title": "High-Tech Weaponry",
     "Count": 5,
     "Type": "Tech",
@@ -491,12 +566,14 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "Tech: You get +1 Attack.",
-    "FlavorText": "Fury always budgets one extra prototype for his personal collection."
+    "FlavorText": "Fury always budgets one extra prototype for his personal collection.",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Nick Fury",
-    "Team": "S.H.I.E.L.D.",
+    "Id": 39,
+    "SetId": 1,
+    "HeroId": 10,
+    "TeamId": 13,
     "Title": "Legendary Commander",
     "Count": 3,
     "Type": "Strength",
@@ -504,12 +581,14 @@
     "Recruit": "",
     "Cost": 6,
     "Text": "You get +1 Attack for each other S.H.I.E.L.D. Hero you played this turn.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Nick Fury",
-    "Team": "S.H.I.E.L.D.",
+    "Id": 40,
+    "SetId": 1,
+    "HeroId": 10,
+    "TeamId": 13,
     "Title": "Pure Fury",
     "Count": 1,
     "Type": "Tech",
@@ -517,12 +596,14 @@
     "Recruit": "",
     "Cost": 8,
     "Text": "Defeat any Villain or Mastermind whose Attack is less than the number of S.H.I.E.L.D. Heroes in the KO pile.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Rogue",
-    "Team": "X-Men",
+    "Id": 41,
+    "SetId": 1,
+    "HeroId": 11,
+    "TeamId": 17,
     "Title": "Borrowed Brawn",
     "Count": 5,
     "Type": "Strength",
@@ -530,12 +611,14 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "Strength: You get +3 Attack.",
-    "FlavorText": "When Rogue steals super strength, enemies get super scared."
+    "FlavorText": "When Rogue steals super strength, enemies get super scared.",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Rogue",
-    "Team": "X-Men",
+    "Id": 42,
+    "SetId": 1,
+    "HeroId": 11,
+    "TeamId": 17,
     "Title": "Energy Drain",
     "Count": 5,
     "Type": "Covert",
@@ -543,12 +626,14 @@
     "Recruit": "2+",
     "Cost": 3,
     "Text": "Covert: You may KO a card from your hand or discard pile. If you do, you get +1 Recruit.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Rogue",
-    "Team": "X-Men",
+    "Id": 43,
+    "SetId": 1,
+    "HeroId": 11,
+    "TeamId": 17,
     "Title": "Play this card as a copy of another Hero you played this turn. This card is both Covert and the color you copy.",
     "Count": 3,
     "Type": "Covert",
@@ -556,12 +641,14 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "Play this card as a copy of another Hero you played this turn. This card is both Covert and the color you copy.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Rogue",
-    "Team": "X-Men",
+    "Id": 44,
+    "SetId": 1,
+    "HeroId": 11,
+    "TeamId": 17,
     "Title": "Steal Abilities",
     "Count": 1,
     "Type": "Strength",
@@ -569,12 +656,14 @@
     "Recruit": "",
     "Cost": 8,
     "Text": "Each player discards the top card of their deck. Play a copy of each of those cards.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Spider-Man",
-    "Team": "Spider Friends",
+    "Id": 45,
+    "SetId": 1,
+    "HeroId": 12,
+    "TeamId": 15,
     "Title": "Astonishing Strength",
     "Count": 5,
     "Type": "Strength",
@@ -582,12 +671,14 @@
     "Recruit": 1,
     "Cost": 2,
     "Text": "Reveal the top card of your deck. If that card costs 2 or less, draw it.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Spider-Man",
-    "Team": "Spider Friends",
+    "Id": 46,
+    "SetId": 1,
+    "HeroId": 12,
+    "TeamId": 15,
     "Title": "Great Responsibility",
     "Count": 5,
     "Type": "Instinct",
@@ -595,12 +686,14 @@
     "Recruit": "",
     "Cost": 2,
     "Text": "Reveal the top card of your deck. If that card costs 2 or less, draw it.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Spider-Man",
-    "Team": "Spider Friends",
+    "Id": 47,
+    "SetId": 1,
+    "HeroId": 12,
+    "TeamId": 15,
     "Title": "Web-Shooters",
     "Count": 3,
     "Type": "Tech",
@@ -608,12 +701,14 @@
     "Recruit": "",
     "Cost": 2,
     "Text": "Rescue a Bystander.|Reveal the top card of your deck. If that card costs 2 or less, draw it.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Spider-Man",
-    "Team": "Spider Friends",
+    "Id": 48,
+    "SetId": 1,
+    "HeroId": 12,
+    "TeamId": 15,
     "Title": "The Amazing Spider-Man",
     "Count": 1,
     "Type": "Covert",
@@ -621,12 +716,14 @@
     "Recruit": "",
     "Cost": 2,
     "Text": "Reveal the top three cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Storm",
-    "Team": "X-Men",
+    "Id": 49,
+    "SetId": 1,
+    "HeroId": 13,
+    "TeamId": 17,
     "Title": "Gathering Stormclouds",
     "Count": 5,
     "Type": "Ranged",
@@ -634,12 +731,14 @@
     "Recruit": 2,
     "Cost": 3,
     "Text": "Ranged: Draw a card.",
-    "FlavorText": "Two little raindrops. Then two billion."
+    "FlavorText": "Two little raindrops. Then two billion.",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Storm",
-    "Team": "X-Men",
+    "Id": 50,
+    "SetId": 1,
+    "HeroId": 13,
+    "TeamId": 17,
     "Title": "Lightning Bolt",
     "Count": 5,
     "Type": "Ranged",
@@ -647,12 +746,14 @@
     "Recruit": "",
     "Cost": 4,
     "Text": "Any Villain you fight on the Rooftops this turn gets -2 Attack.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Storm",
-    "Team": "X-Men",
+    "Id": 51,
+    "SetId": 1,
+    "HeroId": 13,
+    "TeamId": 17,
     "Title": "Spinning Cyclone",
     "Count": 3,
     "Type": "Covert",
@@ -660,12 +761,14 @@
     "Recruit": "",
     "Cost": 6,
     "Text": "You may move a Villain to a new city space. Rescue any Bystanders captured by that Villain. (If you move a Villain to a city space that already has Villain, swap them.)",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Storm",
-    "Team": "X-Men",
+    "Id": 52,
+    "SetId": 1,
+    "HeroId": 13,
+    "TeamId": 17,
     "Title": "Tidal Wave",
     "Count": 1,
     "Type": "Ranged",
@@ -673,12 +776,14 @@
     "Recruit": "",
     "Cost": 7,
     "Text": "Any Villain you fight on the Bridge this turn gets -2 Attack.|Ranged: The Mastermind gets -2 Attack this turn.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Thor",
-    "Team": "Avengers",
+    "Id": 53,
+    "SetId": 1,
+    "HeroId": 14,
+    "TeamId": 1,
     "Title": "Odinson",
     "Count": 5,
     "Type": "Strength",
@@ -686,12 +791,14 @@
     "Recruit": "2+",
     "Cost": 3,
     "Text": "Strength: You get +2 Recruit.",
-    "FlavorText": "Whosoever holds the hammer, if he be worthy, shall possess the power of Thor."
+    "FlavorText": "\\\"Whosoever holds the hammer, if he be worthy, shall possess the power of Thor.\\",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Thor",
-    "Team": "Avengers",
+    "Id": 54,
+    "SetId": 1,
+    "HeroId": 14,
+    "TeamId": 1,
     "Title": "Surge of Power",
     "Count": 5,
     "Type": "Ranged",
@@ -699,12 +806,14 @@
     "Recruit": 2,
     "Cost": 4,
     "Text": "If you made 8 or more Recruit this turn, you get +3 Attack.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Thor",
-    "Team": "Avengers",
+    "Id": 55,
+    "SetId": 1,
+    "HeroId": 14,
+    "TeamId": 1,
     "Title": "Call Lightning",
     "Count": 3,
     "Type": "Ranged",
@@ -712,12 +821,14 @@
     "Recruit": "",
     "Cost": 6,
     "Text": "Ranged: You get +3 Attack.",
-    "FlavorText": "Lightning never strikes twice. Thor never needs to."
+    "FlavorText": "Lightning never strikes twice. Thor never needs to.",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Thor",
-    "Team": "Avengers",
+    "Id": 56,
+    "SetId": 1,
+    "HeroId": 14,
+    "TeamId": 1,
     "Title": "God of Thunder",
     "Count": 1,
     "Type": "Ranged",
@@ -725,12 +836,14 @@
     "Recruit": 5,
     "Cost": 8,
     "Text": "You can use Recruit as Attack this turn.",
-    "FlavorText": "They call him the God of Thunder. His enemies better start praying."
+    "FlavorText": "They call him the God of Thunder. His enemies better start praying.",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Wolverine",
-    "Team": "X-Men",
+    "Id": 57,
+    "SetId": 1,
+    "HeroId": 15,
+    "TeamId": 17,
     "Title": "Healing Factor",
     "Count": 5,
     "Type": "Instinct",
@@ -738,12 +851,14 @@
     "Recruit": "",
     "Cost": 3,
     "Text": "You may KO a Wound from your hand or discard pile. If you do, draw a card.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Wolverine",
-    "Team": "X-Men",
+    "Id": 58,
+    "SetId": 1,
+    "HeroId": 15,
+    "TeamId": 17,
     "Title": "Keen Senses",
     "Count": 5,
     "Type": "Instinct",
@@ -751,12 +866,14 @@
     "Recruit": "",
     "Cost": 2,
     "Text": "Instinct: Draw a card.",
-    "FlavorText": "The only thing scarier than Wolverine tracking you is Wolverine finding you."
+    "FlavorText": "The only thing scarier than Wolverine tracking you is Wolverine finding you.",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Wolverine",
-    "Team": "X-Men",
+    "Id": 59,
+    "SetId": 1,
+    "HeroId": 15,
+    "TeamId": 17,
     "Title": "Frenzied Slashing",
     "Count": 3,
     "Type": "Instinct",
@@ -764,12 +881,14 @@
     "Recruit": "",
     "Cost": 5,
     "Text": "Instinct: Draw two cards.",
-    "FlavorText": "Some villains get torn apart by guilt. Others get torn apart by Wolverine."
+    "FlavorText": "Some villains get torn apart by guilt. Others get torn apart by Wolverine.",
+    "": ""
   },
   {
-    "Set": "Legendary",
-    "Name": "Wolverine",
-    "Team": "X-Men",
+    "Id": 60,
+    "SetId": 1,
+    "HeroId": 15,
+    "TeamId": 17,
     "Title": "Berserker Rage",
     "Count": 1,
     "Type": "Instinct",
@@ -777,6 +896,7 @@
     "Recruit": "",
     "Cost": 8,
     "Text": "Draw three cards.|Instinct: You get +1 Attack for each extra card you've drawn this turn.",
-    "FlavorText": ""
+    "FlavorText": "",
+    "": ""
   }
 ]
