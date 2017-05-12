@@ -1,0 +1,282 @@
+[
+  {
+    "Id": 1,
+    "SetId": 8,
+    "Title": "Pure Evil",
+    "Attack": 5,
+    "Text": "Play a card from the Villain Deck. Keep this card in the Ambition Row.|(This card starts the game in the Ambition Row and cannot be discarded from the Ambition Row. You can use this card multiple times in the same turn.)"
+  },
+  {
+    "Id": 2,
+    "SetId": 8,
+    "Title": "Crackdown",
+    "Attack": 7,
+    "Text": "Choose a class. Each other player reveals their hand and discards all cards of that class."
+  },
+  {
+    "Id": 3,
+    "SetId": 8,
+    "Title": "Tide of Destruction",
+    "Attack": 8,
+    "Text": "Play two cards from the Villain Deck."
+  },
+  {
+    "Id": 4,
+    "SetId": 8,
+    "Title": "Abduction",
+    "Attack": 2,
+    "Text": "Put a Hero from the HQ on the bottom of the Hero Deck."
+  },
+  {
+    "Id": 5,
+    "SetId": 8,
+    "Title": "Secret Plans",
+    "Attack": 4,
+    "Text": "Put this card under a Villain in the Sewers or Bank. When that Villain escapes, this card becomes a Scheme Twist that takes effect immediately. If that Villain leaves the city another way, discard this."
+  },
+  {
+    "Id": 6,
+    "SetId": 8,
+    "Title": "Wipe Out",
+    "Attack": 2,
+    "Text": "Choose a class. Put all heroes of that class from the HQ on the bottom of the Hero Deck."
+  },
+  {
+    "Id": 7,
+    "SetId": 8,
+    "Title": "Crush the Weak",
+    "Attack": 3,
+    "Text": "The other player with the fewest Villains in their Victory Pile gains a Wound. (You choose how to break a tie.)"
+  },
+  {
+    "Id": 8,
+    "SetId": 8,
+    "Title": "Identity Theft",
+    "Attack": 4,
+    "Text": "Each other player that has exactly six cards reveals a Tech Hero or puts two cards from their hand on top of their deck."
+  },
+  {
+    "Id": 9,
+    "SetId": 8,
+    "Title": "Wave of Punishment",
+    "Attack": 5,
+    "Text": "Each other player reveals a Ranged Hero or gains a Wound to the bottom of their deck."
+  },
+  {
+    "Id": 10,
+    "SetId": 8,
+    "Title": "Force Field",
+    "Attack": 3,
+    "Text": "Put this card under the Mastermind card. That Mastermind gets +3 Attack until the start of your next turn. Then, discard this card."
+  },
+  {
+    "Id": 11,
+    "SetId": 8,
+    "Title": "Breakout",
+    "Attack": 4,
+    "Text": "Choose a Villain from the Escape Pile. It enters the city."
+  },
+  {
+    "Id": 12,
+    "SetId": 8,
+    "Title": "Last-Minute Escape",
+    "Attack": 9,
+    "Text": "Pick a random Mastermind Tactic from all the ones in players' Victory Piles. Shuffle it back into the Mastermind's Tactics."
+  },
+  {
+    "Id": 13,
+    "SetId": 8,
+    "Title": "Empower",
+    "Attack": 3,
+    "Text": "Put this card under a Villain in the city. Until the start of your next turn, that Villain gets +3 Attack. Then, discard this card."
+  },
+  {
+    "Id": 14,
+    "SetId": 8,
+    "Title": "Deceive",
+    "Attack": 4,
+    "Text": "Each other player reveals a Covert Hero or discards their hand and draws five cards."
+  },
+  {
+    "Id": 15,
+    "SetId": 8,
+    "Title": "Inflict Pain",
+    "Attack": 2,
+    "Text": "Each other player puts a Wound from their discard pile on top of their deck."
+  },
+  {
+    "Id": 16,
+    "SetId": 8,
+    "Title": "Bank Robbery",
+    "Attack": 3,
+    "Text": "KO the Hero in the HQ space under the Bank. You get + Recruit equal to that Hero's printed Recruit."
+  },
+  {
+    "Id": 17,
+    "SetId": 8,
+    "Title": "Pressure Point",
+    "Attack": 6,
+    "Text": "Each other player reveals a Instinct Hero or gains a Wound to the top of their deck."
+  },
+  {
+    "Id": 18,
+    "SetId": 8,
+    "Title": "Cleave",
+    "Attack": 6,
+    "Text": "Choose a number besides 0. Each other player reveals their hand and discards all cards of that cost."
+  },
+  {
+    "Id": 19,
+    "SetId": 8,
+    "Title": "Entrap",
+    "Attack": 1,
+    "Text": "Put this card on a Hero in the HQ. Players can't recruit that Hero until the start of your next turn. Then, discard this card."
+  },
+  {
+    "Id": 20,
+    "SetId": 8,
+    "Title": "Insane Twist",
+    "Attack": 9,
+    "Text": "This card becomes a Scheme Twist that takes effect immediately."
+  },
+  {
+    "Id": 21,
+    "SetId": 8,
+    "Title": "Kidnap",
+    "Attack": 2,
+    "Text": "A Villain in the city captures a Bystander."
+  },
+  {
+    "Id": 22,
+    "SetId": 8,
+    "Title": "Thirst for Power",
+    "Attack": 7,
+    "Text": "Reveal the top two cards of the Villain Deck. Play a Scheme Twist you revealed. Put the rest back on the top and/or bottom in any order."
+  },
+  {
+    "Id": 23,
+    "SetId": 8,
+    "Title": "Painful Choice",
+    "Attack": 8,
+    "Text": "Each other player chooses Recruit or Attack, then discard all their cards with that icon."
+  },
+  {
+    "Id": 24,
+    "SetId": 8,
+    "Title": "Crime Surge",
+    "Attack": 3,
+    "Text": "Each Villain on the Rooftops and Streets captures a Bystander."
+  },
+  {
+    "Id": 25,
+    "SetId": 8,
+    "Title": "Dark Apprentice",
+    "Attack": 10,
+    "Text": "Add a random new Mastermind to the game with one Tactic."
+  },
+  {
+    "Id": 26,
+    "SetId": 8,
+    "Title": "Collateral Damage",
+    "Attack": 4,
+    "Text": "Each other player KOs a Bystander from their Victory Pile or gains a Wound."
+  },
+  {
+    "Id": 27,
+    "SetId": 8,
+    "Title": "Ruthless Strike",
+    "Attack": 4,
+    "Text": "This card becomes a Master Strike that takes effect immediately."
+  },
+  {
+    "Id": 28,
+    "SetId": 8,
+    "Title": "Infiltrate S.H.I.E.L.D.",
+    "Attack": 4,
+    "Text": "Choose a 0-cost Hero from the KO pile for each other player. Those players gain those Heroes."
+  },
+  {
+    "Id": 29,
+    "SetId": 8,
+    "Title": "Thirst for Vengeance",
+    "Attack": 6,
+    "Text": "Reveal the top two cards of the Villain Deck. Play a Master Strike you revealed. Put the rest back on the top and/or bottom in any order."
+  },
+  {
+    "Id": 30,
+    "SetId": 8,
+    "Title": "Pummel",
+    "Attack": 4,
+    "Text": "Each other player reveals a Strength Hero or gains a Wound."
+  },
+  {
+    "Id": 31,
+    "SetId": 9,
+    "Title": "Puzzle Trap",
+    "Attack": 6,
+    "Text": "Choose a class. Other players can't recruit heroes of that class until the start of your next turn. Then, discard this card."
+  },
+  {
+    "Id": 32,
+    "SetId": 9,
+    "Title": "Seize the High Ground",
+    "Attack": 3,
+    "Text": "Patrol the Rooftops: If there's a Villain there, then all Villains everywhere get +1 Attack until the start of your next turn.|Then, discard this card."
+  },
+  {
+    "Id": 33,
+    "SetId": 9,
+    "Title": "Hostage Situation",
+    "Attack": 2,
+    "Text": "Patrol the Streets: If there's a Villain there, then each Villain in the city captures a Bystander."
+  },
+  {
+    "Id": 34,
+    "SetId": 9,
+    "Title": "This is a Stickup",
+    "Attack": 4,
+    "Text": "Patrol the Bank: If there's a Villain there, each other player reveals their hand and discards a card with a Recruit icon."
+  },
+  {
+    "Id": 35,
+    "SetId": 9,
+    "Title": "Shadowy Disciple",
+    "Attack": 9,
+    "Text": "This ambition ascends to become a new 9 Attack Mastermind worth 5 VP. It gains the ability: \"Master Strike: Each player reveals a Ranged Hero or gains a Wound."
+  },
+  {
+    "Id": 36,
+    "SetId": 9,
+    "Title": "Detonate the Bridge",
+    "Attack": 4,
+    "Text": "Patrol the Bridge: If there's a Villain there, each player gains a Wound."
+  },
+  {
+    "Id": 37,
+    "SetId": 9,
+    "Title": "Short Escape Tunnels",
+    "Attack": 5,
+    "Text": "Patrol the Sewers: If there's a Villain there, it escapes."
+  },
+  {
+    "Id": 38,
+    "SetId": 9,
+    "Title": "Crazed Charge",
+    "Attack": 3,
+    "Text": "A Villain in the city charges two spaces."
+  },
+  {
+    "Id": 39,
+    "SetId": 9,
+    "Title": "Devastate S.H.I.E.L.D.",
+    "Attack": 7,
+    "Text": "Every other player reveals their hand and discards all their cards that cost 0."
+  },
+  {
+    "Id": 40,
+    "SetId": 9,
+    "Title": "Rack and Ruin",
+    "Attack": 10,
+    "Text": "This card becomes a Master Strike that takes effect immediately. Then, this card becomes a Scheme Twist that takes effect immediately."
+  }
+]
