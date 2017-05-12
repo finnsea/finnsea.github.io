@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 1,
+    "SetId": 1,
+    "Title": "Wound",
+    "Copies": 30,
+    "Text": "Healing: If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand."
+  },
+  {
+    "Id": 2,
+    "SetId": 5,
+    "Title": "Bindings",
+    "Copies": 30,
+    "Text": "Betrayal: If you don't recruit any Allies or defeat any Adversaries or Commanders on your turn, you may KO a Bindings from your hand. If you do, the player to your right gains all the other Bindings from your hand."
+  },
+  {
+    "Id": 3,
+    "SetId": 11,
+    "Title": "Blinding Flash",
+    "Copies": 2,
+    "Text": "Healing: You may discard a card and have each other player discard a card. If you do, KO this Wound."
+  },
+  {
+    "Id": 4,
+    "SetId": 11,
+    "Title": "Blunt Force Trauma",
+    "Copies": 2,
+    "Text": "Healing: You may spend 5 Attack. If you do, KO this Wound."
+  },
+  {
+    "Id": 5,
+    "SetId": 11,
+    "Title": "Corrosive Webbing",
+    "Copies": 2,
+    "Text": "Healing: You may KO this Wound. If you do, gain another Wound."
+  },
+  {
+    "Id": 6,
+    "SetId": 11,
+    "Title": "Fatal Blow",
+    "Copies": 2,
+    "Text": "Healing: You may KO a Hero that costs 1 or more from your hand or discard pile. If you do, KO this Wound."
+  },
+  {
+    "Id": 7,
+    "SetId": 11,
+    "Title": "Psychic Trauma",
+    "Copies": 2,
+    "Text": "Healing: You may spend 5 Recruit. If you do, KO this Wound."
+  },
+  {
+    "Id": 8,
+    "SetId": 11,
+    "Title": "Spreading Nanovirus",
+    "Copies": 3,
+    "Text": "Healing: You may have the player on your left gain this Wound."
+  },
+  {
+    "Id": 9,
+    "SetId": 11,
+    "Title": "Subdermal Tracker",
+    "Copies": 2,
+    "Text": "Healing: You may play a card from the Villain Deck. If you do, KO this Wound."
+  }
+]

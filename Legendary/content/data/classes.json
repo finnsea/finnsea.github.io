@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "1",
+    "Title": "Covert",
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/types/covert.png",
+    "Description": "Include Heroes and Allies using trickery and deception to outwit their foes. They also include Heroes and Allies making clever battle plans and using subtle superpowers to gain subtle advantages."
+  },
+  {
+    "Id": "2",
+    "Title": "Instinct",
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/types/instinct.png",
+    "Description": "Include Heroes and Allies who use savagery and quick reflexes to dominate combats. Some use superhuman senses to get an edge on their opponents."
+  },
+  {
+    "Id": "3",
+    "Title": "Ranged",
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/types/ranged.png",
+    "Description": "Include Heroes and Allies who like to blow things up. Someuse inherent superpowers to blast things, while others use energy beams, elemental powers, and mental assaults."
+  },
+  {
+    "Id": "4",
+    "Title": "Strength",
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/types/strength.png",
+    "Description": "Include Heroes and Allies with raw strength, but also strength of will, determination, and strong leadership."
+  },
+  {
+    "Id": "5",
+    "Title": "Tech",
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/types/tech.png",
+    "Description": "Include Heroes and Allies using advanced weaponry, incredible gadgets, brilliant inventions, or next-generation science."
+  },
+  {
+    "Id": 6,
+     "Title": "Basic",
+     "ImageFile": "",
+     "Description": "include all the starting S.H.I.E.L.D. Agents, S.H.I.E.L.D. Troopers, S.H.I.E.L.D. Officers, HYDRA Operatives, HYDRA Soldiers, Madame HYDRA, Sidekicks and New Recruits. They are Heroes or Allies in their own way, but they don't quite get the job done as well."
+  }
+]
