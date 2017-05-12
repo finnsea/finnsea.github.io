@@ -3,6 +3,7 @@
     "Id": "1",
     "SetTypeId": "1",
     "Title": "Legendary: A Marvel Deck Building Game",
+    "ShortTitle": "Legendary",
     "ReleaseDate": "2013",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/legendary_48.png"
   },
@@ -10,6 +11,7 @@
     "Id": "2",
     "SetTypeId": "2",
     "Title": "Legendary: Dark City",
+    "ShortTitle": "Dark City",
     "ReleaseDate": "2013",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/dark_city_48.png"
   },
@@ -17,6 +19,7 @@
     "Id": "3",
     "SetTypeId": "3",
     "Title": "Legendary: Fantastic Four",
+    "ShortTitle": "Fantastic Four",
     "ReleaseDate": "2013",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/fantastic_four_48.png"
   },
@@ -24,6 +27,7 @@
     "Id": "4",
     "SetTypeId": "3",
     "Title": "Legendary: Paint the Town Red",
+    "ShortTitle": "Paint the Town Red",
     "ReleaseDate": "2014",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/paint_the_town_red_48.png"
   },
@@ -31,6 +35,7 @@
     "Id": "5",
     "SetTypeId": "1",
     "Title": "Legendary Villains: A Marvel Deck Building Game:",
+    "ShortTitle": "Villains",
     "ReleaseDate": "2014",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/villains_48.png"
   },
@@ -38,6 +43,7 @@
     "Id": "6",
     "SetTypeId": "3",
     "Title": "Legendary: Guardians of the Galaxy",
+    "ShortTitle": "Guardians of the Galaxy",
     "ReleaseDate": "2014",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/guardians_of_the_galaxy_48.png"
   },
@@ -45,6 +51,7 @@
     "Id": "7",
     "SetTypeId": "3",
     "Title": "Legendary Villains: Fear Itself",
+    "ShortTitle": "Fear Itself",
     "ReleaseDate": "2015",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/fear_itself_48.png"
   },
@@ -52,6 +59,7 @@
     "Id": "8",
     "SetTypeId": "2",
     "Title": "Legendary: Secret Wars - Volume 1",
+    "ShortTitle": "Secret Wars - Volume 1",
     "ReleaseDate": "2015",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/secret_wars_v1_48.png"
   },
@@ -59,6 +67,7 @@
     "Id": "9",
     "SetTypeId": "2",
     "Title": "Legendary: Secret Wars - Volume 2",
+    "ShortTitle": "Secret Wars - Volume 2",
     "ReleaseDate": "2015",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/secret_wars_v2_48.png"
   },
@@ -66,6 +75,7 @@
     "Id": "10",
     "SetTypeId": "3",
     "Title": "Legendary: Captain America 75th Anniversary",
+    "ShortTitle": "Captain America",
     "ReleaseDate": "2016",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/captain_america_48.png"
   },
@@ -73,6 +83,7 @@
     "Id": "11",
     "SetTypeId": "2",
     "Title": "Legendary: Civil War",
+    "ShortTitle": "Civil War",
     "ReleaseDate": "2016",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/civil_war_48.png"
   },
@@ -80,6 +91,7 @@
     "Id": "12",
     "SetTypeId": "3",
     "Title": "Legendary: Deadpool",
+    "ShortTitle": "Deadpool",
     "ReleaseDate": "2016",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/deadpool_48.png"
   },
@@ -87,6 +99,7 @@
     "Id": "13",
     "SetTypeId": "4",
     "Title": "Legendary: Marvel 3D",
+    "ShortTitle": "3D",
     "ReleaseDate": "2015",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/3d_48.png"
   },
@@ -94,6 +107,7 @@
     "Id": "14",
     "SetTypeId": "3",
     "Title": "Legendary: Noir",
+    "ShortTitle": "Noir",
     "ReleaseDate": "2017",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/noir_48.png"
   },
@@ -101,6 +115,7 @@
     "Id": "15",
     "SetTypeId": "2",
     "Title": "Legendary: X-Men",
+    "ShortTitle": "X-Men",
     "ReleaseDate": "2017",
     "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/x_men_48.png"
   }
