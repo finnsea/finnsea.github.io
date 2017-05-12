@@ -3,86 +3,86 @@
   {
     "Id": 1,
     "Name": "Avengers",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/avengers.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/avengers_48.png"
   },
   {
     "Id": 2,
     "Name": "Brotherhood",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/brotherhood.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/brotherhood_48.png"
   },
   {
     "Id": 3,
     "Name": "Cabal",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/cabal.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/cabal_48.png"
   },
   {
     "Id": 4,
     "Name": "Crime Syndicate",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/crime_syndicate.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/crime_syndicate_48.png"
   },
   {
     "Id": 5,
     "Name": "Fantastic Four",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/fantastic_four.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/fantastic_four_48.png"
   },
   {
     "Id": 6,
     "Name": "Foes of Asgard",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/foes_of_asgard.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/foes_of_asgard_48.png"
   },
   {
     "Id": 7,
     "Name": "Guardians of the Galaxy",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/guardians_of_the_galaxy.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/guardians_of_the_galaxy_48.png"
   },
   {
     "Id": 8,
     "Name": "Hydra",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/hydra.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/hydra_48.png"
   },
   {
     "Id": 9,
     "Name": "Illuminati",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/liluminati.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/liluminati_48.png"
   },
   {
     "Id": 10,
     "Name": "Marvel Knights",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/marvel_knights.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/marvel_knights_48.png"
   },
   {
     "Id": 11,
     "Name": "Mercs For Money",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/mercs_for_money.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/mercs_for_money_48.png"
   },
   {
     "Id": 12,
     "Name": "New Warriors",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/new_warriors.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/new_warriors_48.png"
   },
   {
     "Id": 13,
     "Name": "S.H.I.E.L.D.",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/shield.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/shield_48.png"
   },
   {
     "Id": 14,
     "Name": "Sinister Six",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/sinister_six.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/sinister_six_48.png"
   },
   {
     "Id": 15,
     "Name": "Spider Friends",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/spider_friends.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/spider_friends_48.png"
   },
   {
     "Id": 16,
     "Name": "X-Force",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/x_force.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/x_force_48.png"
   },
   {
     "Id": 17,
     "Name": "X-Men",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/x_men.png"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/teams/x_men_48.png"
   }
 ]

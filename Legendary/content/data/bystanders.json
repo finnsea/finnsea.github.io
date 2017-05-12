@@ -2,64 +2,169 @@
   {
     "Id": 1,
     "SetId": 1,
-    "Title": "Wound",
+    "Name": "Bystander",
+    "VictoryPoints": 1,
     "Copies": 30,
-    "Text": "Healing: If you don't recruit any Heroes or defeat any Villains on your turn, you may KO all the Wounds from your hand."
+    "Text": ""
   },
   {
     "Id": 2,
-    "SetId": 5,
-    "Title": "Bindings",
-    "Copies": 30,
-    "Text": "Betrayal: If you don't recruit any Allies or defeat any Adversaries or Commanders on your turn, you may KO a Bindings from your hand. If you do, the player to your right gains all the other Bindings from your hand."
+    "SetId": 2,
+    "Name": "News Reporter",
+    "VictoryPoints": 1,
+    "Copies": 4,
+    "Text": "When you rescue this Bystander, draw a card."
   },
   {
     "Id": 3,
-    "SetId": 11,
-    "Title": "Blinding Flash",
-    "Copies": 2,
-    "Text": "Healing: You may discard a card and have each other player discard a card. If you do, KO this Wound."
+    "SetId": 2,
+    "Name": "Paramedic",
+    "VictoryPoints": 1,
+    "Copies": 3,
+    "Text": "When you rescue this Bystander, you may KO a Wound from your hand or from any player's discard pile."
   },
   {
     "Id": 4,
-    "SetId": 11,
-    "Title": "Blunt Force Trauma",
-    "Copies": 2,
-    "Text": "Healing: You may spend 5 Attack. If you do, KO this Wound."
+    "SetId": 2,
+    "Name": "Radiation Scientist",
+    "VictoryPoints": 1,
+    "Copies": 4,
+    "Text": "When you rescue this Bystander, you may KO one of your Heroes or a Hero from your discard pile."
   },
   {
     "Id": 5,
-    "SetId": 11,
-    "Title": "Corrosive Webbing",
-    "Copies": 2,
-    "Text": "Healing: You may KO this Wound. If you do, gain another Wound."
+    "SetId": 5,
+    "Name": "Bystander",
+    "VictoryPoints": 1,
+    "Copies": 30,
+    "Text": ""
   },
   {
     "Id": 6,
-    "SetId": 11,
-    "Title": "Fatal Blow",
-    "Copies": 2,
-    "Text": "Healing: You may KO a Hero that costs 1 or more from your hand or discard pile. If you do, KO this Wound."
+    "SetId": 5,
+    "Name": "Computer Hacker",
+    "VictoryPoints": 1,
+    "Copies": 3,
+    "Text": "When you kidnap this Bystander, draw an extra card when you draw a new hand at the end of your turn."
   },
   {
     "Id": 7,
-    "SetId": 11,
-    "Title": "Psychic Trauma",
-    "Copies": 2,
-    "Text": "Healing: You may spend 5 Recruit. If you do, KO this Wound."
+    "SetId": 5,
+    "Name": "Engineer",
+    "VictoryPoints": 1,
+    "Copies": 3,
+    "Text": "When you kidnap this Bystander, reveal the top card of your deck. If it costs 0 - KO it."
   },
   {
     "Id": 8,
-    "SetId": 11,
-    "Title": "Spreading Nanovirus",
+    "SetId": 5,
+    "Name": "Public Speaker",
+    "VictoryPoints": 1,
     "Copies": 3,
-    "Text": "Healing: You may have the player on your left gain this Wound."
+    "Text": "When you kidnap this Bystander, gain 1 recruit."
   },
   {
     "Id": 9,
+    "SetId": 5,
+    "Name": "Rockstar",
+    "VictoryPoints": 1,
+    "Copies": 3,
+    "Text": "When you kidnap this Bystander, kidnap another Bystander."
+  },
+  {
+    "Id": 10,
+    "SetId": 8,
+    "Name": "Banker",
+    "VictoryPoints": 1,
+    "Copies": 3,
+    "Text": "When you rescue this Bystander, you get +2 Recruit, usable only to recruit Heroes in the HQ space under the Bank."
+  },
+  {
+    "Id": 11,
+    "SetId": 9,
+    "Name": "Alligator Trapper",
+    "VictoryPoints": 1,
+    "Copies": 3,
+    "Text": "When you rescue this Bystander, Patrol the Sewers: If it's empty, you get +2 Recruit."
+  },
+  {
+    "Id": 12,
+    "SetId": 9,
+    "Name": "Shapeshifted Copycat",
+    "VictoryPoints": 1,
+    "Copies": 4,
+    "Text": "When you rescue this Bystander, this card becomes a Villain with 3 Attack and enters the city. It gains the ability: \"Fight: KO one of your Heroes."
+  },
+  {
+    "Id": 13,
+    "SetId": 9,
+    "Name": "Undercover Agent",
+    "VictoryPoints": 1,
+    "Copies": 3,
+    "Text": "When you rescue this Bystander, a player of your choice gains a S.H.I.E.L.D. Officer."
+  },
+  {
+    "Id": 14,
     "SetId": 11,
-    "Title": "Subdermal Tracker",
-    "Copies": 2,
-    "Text": "Healing: You may play a card from the Villain Deck. If you do, KO this Wound."
+    "Name": "Aspiring Hero",
+    "VictoryPoints": 1,
+    "Copies": 4,
+    "Text": "When you rescue this Bystander, gain a Sidekick."
+  },
+  {
+    "Id": 15,
+    "SetId": 11,
+    "Name": "Comic Shop Keeper",
+    "VictoryPoints": 1,
+    "Copies": 3,
+    "Text": "When you rescue this Bystander, reveal the top three cards of the Hero Deck. The player of your choice gains one of them that costs 3 or less. Put the rest back in any order."
+  },
+  {
+    "Id": 16,
+    "SetId": 13,
+    "Name": "Bulldozer Driver",
+    "VictoryPoints": 1,
+    "Copies": 1,
+    "Text": "When you rescue this Bystander, you may move a Villain to an adjacent city space. If another Villain is already there, swap them."
+  },
+  {
+    "Id": 17,
+    "SetId": 13,
+    "Name": "Double Agent Of S.H.I.E.L.D.",
+    "VictoryPoints": 1,
+    "Copies": 1,
+    "Text": "When you rescue this Bystander, play a copy of one of your S.H.I.E.L.D. Heroes or HYDRA allies."
+  },
+  {
+    "Id": 18,
+    "SetId": 13,
+    "Name": "Fortune Teller",
+    "VictoryPoints": 1,
+    "Copies": 1,
+    "Text": "When you rescue this Bystander, guess \"zero\" or \"not zero.\" Then reveal the top card of your deck and check its cost. If you guessed right, draw that card."
+  },
+  {
+    "Id": 19,
+    "SetId": 13,
+    "Name": "Photographer",
+    "VictoryPoints": 1,
+    "Copies": 1,
+    "Text": "This Bystander is worth +1 VP for each Hero you have that costs 7 or more among all your cards at the end of the game."
+  },
+  {
+    "Id": 20,
+    "SetId": 13,
+    "Name": "Stan Lee",
+    "VictoryPoints": 1,
+    "Copies": 1,
+    "Text": "When you rescue this Bystander, say a Hero name. Then reveal the top three cards of your deck. Put one of those cards with that exact Hero name into your hand. Put the rest back in any order."
+  },
+  {
+    "Id": 21,
+    "SetId": 14,
+    "Name": "Detective Wolverine",
+    "VictoryPoints": 1,
+    "Copies": 1,
+    "Text": "When you rescue this Bystander, Investigate the Villain Deck for a Villain worth 1 VP and put it in your Victory Pile."
   }
 ]
