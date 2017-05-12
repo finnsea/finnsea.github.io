@@ -4,104 +4,104 @@
     "SetTypeId": "1",
     "Title": "Legendary: A Marvel Deck Building Game",
     "ReleaseDate": "2013",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/legendary.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/legendary.svg"
   },
   {
     "Id": "2",
     "SetTypeId": "2",
     "Title": "Legendary: Dark City",
     "ReleaseDate": "2013",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/dark_city.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/dark_city.svg"
   },
   {
     "Id": "3",
     "SetTypeId": "3",
     "Title": "Legendary: Fantastic Four",
     "ReleaseDate": "2013",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/fantastic_four.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/fantastic_four.svg"
   },
   {
     "Id": "4",
     "SetTypeId": "3",
     "Title": "Legendary: Paint the Town Red",
     "ReleaseDate": "2014",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/paint_the_town_red.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/paint_the_town_red.svg"
   },
   {
     "Id": "5",
     "SetTypeId": "1",
     "Title": "Legendary Villains: A Marvel Deck Building Game:",
     "ReleaseDate": "2014",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/villains.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/villains.svg"
   },
   {
     "Id": "6",
     "SetTypeId": "3",
     "Title": "Legendary: Guardians of the Galaxy",
     "ReleaseDate": "2014",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/guardians_of_the_galaxy.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/guardians_of_the_galaxy.svg"
   },
   {
     "Id": "7",
     "SetTypeId": "3",
     "Title": "Legendary Villains: Fear Itself",
     "ReleaseDate": "2015",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/fear_itself.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/fear_itself.svg"
   },
   {
     "Id": "8",
     "SetTypeId": "2",
     "Title": "Legendary: Secret Wars - Volume 1",
     "ReleaseDate": "2015",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/secret_wars_v1.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/secret_wars_v1.svg"
   },
   {
     "Id": "9",
     "SetTypeId": "2",
     "Title": "Legendary: Secret Wars - Volume 2",
     "ReleaseDate": "2015",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/secret_wars_v2.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/secret_wars_v2.svg"
   },
   {
     "Id": "10",
     "SetTypeId": "3",
     "Title": "Legendary: Captain America 75th Anniversary",
     "ReleaseDate": "2016",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/captain_america.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/captain_america.svg"
   },
   {
     "Id": "11",
     "SetTypeId": "2",
     "Title": "Legendary: Civil War",
     "ReleaseDate": "2016",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/civil_war.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/civil_war.svg"
   },
   {
     "Id": "12",
     "SetTypeId": "3",
     "Title": "Legendary: Deadpool",
     "ReleaseDate": "2016",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/deadpool.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/deadpool.svg"
   },
   {
     "Id": "13",
     "SetTypeId": "4",
     "Title": "Legendary: Marvel 3D",
     "ReleaseDate": "2015",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/3d.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/3d.svg"
   },
   {
     "Id": "14",
     "SetTypeId": "3",
     "Title": "Legendary: Noir",
     "ReleaseDate": "2017",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/noir.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/noir.svg"
   },
   {
     "Id": "15",
     "SetTypeId": "2",
     "Title": "Legendary: X-Men",
     "ReleaseDate": "2017",
-    "ImageFile": "https://finnsea.github.io/Legendary/content/imgs/sets/x_men.svg"
+    "ImageFile": "https://finnsea.github.io/Legendary/content/img/sets/x_men.svg"
   }
 ]
